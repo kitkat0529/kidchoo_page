@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="92" viewBox="0 0 251 92">
+  <g id="Group_98" data-name="Group 98" transform="translate(-63 -876)">
+    <g id="Ellipse_144" data-name="Ellipse 144" transform="translate(142 876)" fill="none" stroke="#7187ae" stroke-width="3">
+      <circle cx="46" cy="46" r="46" stroke="none"/>
+      <circle cx="46" cy="46" r="44.5" fill="none"/>
+    </g>
+    <g id="Ellipse_145" data-name="Ellipse 145" transform="translate(63 876)" fill="none" stroke="#7187ae" stroke-width="3">
+      <circle cx="46" cy="46" r="46" stroke="none"/>
+      <circle cx="46" cy="46" r="44.5" fill="none"/>
+    </g>
+    <g id="Ellipse_146" data-name="Ellipse 146" transform="translate(222 876)" fill="none" stroke="#7187ae" stroke-width="3">
+      <circle cx="46" cy="46" r="46" stroke="none"/>
+      <circle cx="46" cy="46" r="44.5" fill="none"/>
+    </g>
+    <text id="招聘难" transform="translate(108 928)" fill="#7187ae" font-size="15" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-22.5" y="0">招聘难</tspan></text>
+    <text id="职业_生涯断档" data-name="职业
+生涯断档" transform="translate(188 917)" fill="#7187ae" font-size="15" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-15" y="0">职业</tspan><tspan y="0" font-family="HelveticaNeue, Helvetica Neue"></tspan><tspan x="-30" y="21">生涯断档</tspan></text>
+    <text id="企业人_效比下降" data-name="企业人
+效比下降" transform="translate(268 917)" fill="#7187ae" font-size="15" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-22.5" y="0">企业人</tspan><tspan y="0" font-family="HelveticaNeue, Helvetica Neue"></tspan><tspan x="-30" y="21">效比下降</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303" height="283" viewBox="0 0 303 283">
+  <g id="Group_96" data-name="Group 96" transform="translate(-35 -4047)">
+    <path id="Path_170" data-name="Path 170" d="M318.446,373.3l-24.828,76.412H213.274L188.446,373.3l65-47.225Z" transform="translate(-72.178 3807.402) rotate(-1)" fill="#e6f0fc"/>
+    <ellipse id="Ellipse_128" data-name="Ellipse 128" cx="39.5" cy="38.5" rx="39.5" ry="38.5" transform="translate(148 4056)" fill="#95abd3"/>
+    <ellipse id="Ellipse_129" data-name="Ellipse 129" cx="39.5" cy="38.5" rx="39.5" ry="38.5" transform="translate(44 4132)" fill="#95abd3"/>
+    <ellipse id="Ellipse_130" data-name="Ellipse 130" cx="39.5" cy="38.5" rx="39.5" ry="38.5" transform="translate(84 4244)" fill="#95abd3"/>
+    <ellipse id="Ellipse_131" data-name="Ellipse 131" cx="39.5" cy="38.5" rx="39.5" ry="38.5" transform="translate(215 4244)" fill="#95abd3"/>
+    <ellipse id="Ellipse_132" data-name="Ellipse 132" cx="39.5" cy="38.5" rx="39.5" ry="38.5" transform="translate(250 4123)" fill="#95abd3"/>
+    <text id="五大服务" transform="translate(146 4182)" fill="#5b7ba9" font-size="20" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="0" y="21">五大服务</tspan></text>
+    <text id="_11小时_超长托育" data-name="11小时
+超长托育" transform="translate(151 4074)" fill="#f7f7f7" font-size="12" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="18.828" y="13">11</tspan><tspan y="13" font-family="PingFangTC-Medium, PingFang TC">小时</tspan><tspan y="13"></tspan><tspan font-family="PingFangTC-Medium, PingFang TC"><tspan x="13.5" y="30">超长托育</tspan></tspan></text>
+    <g id="Ellipse_133" data-name="Ellipse 133" transform="translate(139 4047)" fill="none" stroke="#5b7ba9" stroke-width="1">
+      <ellipse cx="48.5" cy="47" rx="48.5" ry="47" stroke="none"/>
+      <ellipse cx="48.5" cy="47" rx="48" ry="46.5" fill="none"/>
+    </g>
+    <g id="Ellipse_134" data-name="Ellipse 134" transform="translate(241 4114)" fill="none" stroke="#5b7ba9" stroke-width="1">
+      <ellipse cx="48.5" cy="47" rx="48.5" ry="47" stroke="none"/>
+      <ellipse cx="48.5" cy="47" rx="48" ry="46.5" fill="none"/>
+    </g>
+    <g id="Ellipse_135" data-name="Ellipse 135" transform="translate(206 4236)" fill="none" stroke="#5b7ba9" stroke-width="1">
+      <ellipse cx="48.5" cy="47" rx="48.5" ry="47" stroke="none"/>
+      <ellipse cx="48.5" cy="47" rx="48" ry="46.5" fill="none"/>
+    </g>
+    <g id="Ellipse_136" data-name="Ellipse 136" transform="translate(75 4236)" fill="none" stroke="#5b7ba9" stroke-width="1">
+      <ellipse cx="48.5" cy="47" rx="48.5" ry="47" stroke="none"/>
+      <ellipse cx="48.5" cy="47" rx="48" ry="46.5" fill="none"/>
+    </g>
+    <g id="Ellipse_137" data-name="Ellipse 137" transform="translate(35 4123)" fill="none" stroke="#5b7ba9" stroke-width="1">
+      <ellipse cx="48.5" cy="47" rx="48.5" ry="47" stroke="none"/>
+      <ellipse cx="48.5" cy="47" rx="48" ry="46.5" fill="none"/>
+    </g>
+    <text id="科学养育" transform="translate(254 4154)" fill="#f7f7f7" font-size="12" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="13.5" y="13">科学养育</tspan></text>
+    <text id="通识教育" transform="translate(217 4277)" fill="#f7f7f7" font-size="12" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="13.5" y="13">通识教育</tspan></text>
+    <text id="妈妈沙龙" transform="translate(85 4273)" fill="#f7f7f7" font-size="12" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="13.5" y="13">妈妈沙龙</tspan></text>
+    <text id="育儿测评_与咨询" data-name="育儿测评
+与咨询" transform="translate(44 4155)" fill="#f7f7f7" font-size="12" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="13.5" y="13">育儿测评</tspan><tspan y="13" font-family="HelveticaNeue-Medium, Helvetica Neue"></tspan><tspan x="19.5" y="30">与咨询</tspan></text>
+  </g>
+</svg>
